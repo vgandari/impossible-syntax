@@ -59,7 +59,7 @@
     "url": "git+https://github.com/vgandari/impossible-syntax.git"
   },
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [],
